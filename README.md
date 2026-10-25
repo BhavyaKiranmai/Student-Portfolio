@@ -1,34 +1,58 @@
-# Student Portfolio
+# Bhavya Kiranmai — Student Portfolio
 
-A beginner-friendly portfolio website for practising Git and GitHub workflows.
+## About the Project
 
-## Project contents
-- `index.html` — main portfolio webpage
-- `style.css` — page styling
-- `about.md` — introduction and career objective
-- `skills.md` — technical skills
-- `projects.md` — academic and personal project descriptions
-- `education.md` — education and achievements
-- `contact.md` — professional contact information
-- `contributions/` — individual student Git/GitHub learning notes
-- `.gitignore` — files Git should ignore
+This repository contains my personal student portfolio, created to showcase my technical skills, projects, education, achievements, and learning goals.
 
-## View the website
-Open `index.html` in a web browser. No backend or installation is required.
+The project also helps me practise Git and GitHub, including version control, branching, commits, pushing changes, and pull requests.
 
-## GitHub practical assessment
-1. Fork the repository to your GitHub account.
-2. Clone your fork to your computer.
-3. Create a branch named `improve-documentation`.
-4. Add a uniquely named Markdown file inside `contributions/`, using your roll number as the filename, for example `YOUR_ROLL_NUMBER.md`.
-5. Commit and push the change to your fork.
-6. Submit your fork URL to the trainer.
+## Portfolio Contents
 
-## Contribution file requirements
-Your file should include:
-- Name and roll number
-- Three Git commands and what they do
-- The purpose of GitHub
-- One benefit of using branches
+- `index.html` — Main portfolio webpage.
+- `style.css` — Styles and layout for the webpage.
+- `about.md` — Introduction, career objective, interests, and learning goals.
+- `skills.md` — Technical skills, tools, learning goals, and certifications.
+- `projects.md` — Project descriptions, technologies, and contributions.
+- `education.md` — Education, certifications, and achievements.
+- `contact.md` — Contact information and professional interests.
+- `.gitignore` — Files and folders Git should ignore.
 
-**Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
+## Technologies Used
+
+- HTML
+- CSS
+- Git
+- GitHub
+- Markdown
+
+## How to Run the Project
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
+4. Explore the portfolio sections.
+
+No additional installation is required to view the website.
+
+## Projects Featured
+
+### Student Attendance Tracker
+A project concept for recording student attendance and generating attendance summaries using Java and CSV files.
+
+### Personal Portfolio Website
+A website built using HTML and CSS to present my profile, skills, projects, and education.
+
+## What I Learned
+
+- Creating and maintaining a Git repository.
+- Tracking changes with commits.
+- Creating and working with branches.
+- Pushing changes to GitHub.
+- Using pull requests to review and merge changes.
+- Writing project documentation using Markdown.
+
+## Author
+
+**Bhavya Kiranmai**
+
+GitHub: [BhavyaKiranmai](https://github.com/BhavyaKiranmai)
